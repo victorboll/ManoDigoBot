@@ -1,0 +1,11 @@
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\bin\Debug\netcoreapp2.0\ManodigoBot.deps.json
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\bin\Debug\netcoreapp2.0\ManodigoBot.runtimeconfig.json
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\bin\Debug\netcoreapp2.0\ManodigoBot.runtimeconfig.dev.json
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\bin\Debug\netcoreapp2.0\ManodigoBot.dll
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\bin\Debug\netcoreapp2.0\ManodigoBot.pdb
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\obj\Debug\netcoreapp2.0\ManodigoBot.csprojResolveAssemblyReference.cache
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\obj\Debug\netcoreapp2.0\ManodigoBot.csproj.CoreCompileInputs.cache
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\obj\Debug\netcoreapp2.0\ManodigoBot.AssemblyInfoInputs.cache
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\obj\Debug\netcoreapp2.0\ManodigoBot.AssemblyInfo.cs
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\obj\Debug\netcoreapp2.0\ManodigoBot.dll
+C:\Users\setzer\source\repos\ManodigoBot\ManodigoBot\obj\Debug\netcoreapp2.0\ManodigoBot.pdb
